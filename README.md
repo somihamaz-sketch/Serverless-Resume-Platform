@@ -169,6 +169,6 @@ The visitor counter will show `—` locally because the API endpoint requires th
 
 ## Author
 
-**dubarikalita**
-- GitHub: [@dubarikalita](https://github.com/dubarikalita)
+**somihamazumder**
+- GitHub: [@somihamaz-sketch](https://github.com/somihamaz-sketch)
 - Built as part of the Cloud Resume Challenge
